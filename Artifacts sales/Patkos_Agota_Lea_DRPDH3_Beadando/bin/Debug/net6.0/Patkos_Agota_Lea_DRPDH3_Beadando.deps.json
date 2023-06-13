@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Patkos_Agota_Lea_DRPDH3_Beadando/1.0.0": {
+        "runtime": {
+          "Patkos_Agota_Lea_DRPDH3_Beadando.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Patkos_Agota_Lea_DRPDH3_Beadando/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

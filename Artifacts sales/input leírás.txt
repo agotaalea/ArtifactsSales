@@ -1,0 +1,14 @@
+A fájl neve input.txt legyen.
+
+Az első sora tartalmazza a fal szélességét és magasságát.
+Pl.: 4;6
+
+A többi sor tartalmazza a tárgyakat.
+
+Tekercs (R) vagy kép (P) esetén egy sor így néz ki:
+R;értéke;szélessége;magassága
+Pl.: P;1500;10;3
+
+Műtárgy (A) esetén egy sor így néz ki:
+A;értéke;szélessége;magassága;mélysége
+Pl.: A;305;3;10;8

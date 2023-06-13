@@ -1,0 +1,15 @@
+C:\Users\Leamea\source\repos\Patkos_Agota_Lea_DRPDH3_Beadando\Patkos_Agota_Lea_DRPDH3_Beadando\bin\Debug\net6.0\Patkos_Agota_Lea_DRPDH3_Beadando.exe
+C:\Users\Leamea\source\repos\Patkos_Agota_Lea_DRPDH3_Beadando\Patkos_Agota_Lea_DRPDH3_Beadando\bin\Debug\net6.0\Patkos_Agota_Lea_DRPDH3_Beadando.deps.json
+C:\Users\Leamea\source\repos\Patkos_Agota_Lea_DRPDH3_Beadando\Patkos_Agota_Lea_DRPDH3_Beadando\bin\Debug\net6.0\Patkos_Agota_Lea_DRPDH3_Beadando.runtimeconfig.json
+C:\Users\Leamea\source\repos\Patkos_Agota_Lea_DRPDH3_Beadando\Patkos_Agota_Lea_DRPDH3_Beadando\bin\Debug\net6.0\Patkos_Agota_Lea_DRPDH3_Beadando.dll
+C:\Users\Leamea\source\repos\Patkos_Agota_Lea_DRPDH3_Beadando\Patkos_Agota_Lea_DRPDH3_Beadando\bin\Debug\net6.0\Patkos_Agota_Lea_DRPDH3_Beadando.pdb
+C:\Users\Leamea\source\repos\Patkos_Agota_Lea_DRPDH3_Beadando\Patkos_Agota_Lea_DRPDH3_Beadando\obj\Debug\net6.0\Patkos_Agota_Lea_DRPDH3_Beadando.csproj.AssemblyReference.cache
+C:\Users\Leamea\source\repos\Patkos_Agota_Lea_DRPDH3_Beadando\Patkos_Agota_Lea_DRPDH3_Beadando\obj\Debug\net6.0\Patkos_Agota_Lea_DRPDH3_Beadando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leamea\source\repos\Patkos_Agota_Lea_DRPDH3_Beadando\Patkos_Agota_Lea_DRPDH3_Beadando\obj\Debug\net6.0\Patkos_Agota_Lea_DRPDH3_Beadando.AssemblyInfoInputs.cache
+C:\Users\Leamea\source\repos\Patkos_Agota_Lea_DRPDH3_Beadando\Patkos_Agota_Lea_DRPDH3_Beadando\obj\Debug\net6.0\Patkos_Agota_Lea_DRPDH3_Beadando.AssemblyInfo.cs
+C:\Users\Leamea\source\repos\Patkos_Agota_Lea_DRPDH3_Beadando\Patkos_Agota_Lea_DRPDH3_Beadando\obj\Debug\net6.0\Patkos_Agota_Lea_DRPDH3_Beadando.csproj.CoreCompileInputs.cache
+C:\Users\Leamea\source\repos\Patkos_Agota_Lea_DRPDH3_Beadando\Patkos_Agota_Lea_DRPDH3_Beadando\obj\Debug\net6.0\Patkos_Agota_Lea_DRPDH3_Beadando.dll
+C:\Users\Leamea\source\repos\Patkos_Agota_Lea_DRPDH3_Beadando\Patkos_Agota_Lea_DRPDH3_Beadando\obj\Debug\net6.0\refint\Patkos_Agota_Lea_DRPDH3_Beadando.dll
+C:\Users\Leamea\source\repos\Patkos_Agota_Lea_DRPDH3_Beadando\Patkos_Agota_Lea_DRPDH3_Beadando\obj\Debug\net6.0\Patkos_Agota_Lea_DRPDH3_Beadando.pdb
+C:\Users\Leamea\source\repos\Patkos_Agota_Lea_DRPDH3_Beadando\Patkos_Agota_Lea_DRPDH3_Beadando\obj\Debug\net6.0\Patkos_Agota_Lea_DRPDH3_Beadando.genruntimeconfig.cache
+C:\Users\Leamea\source\repos\Patkos_Agota_Lea_DRPDH3_Beadando\Patkos_Agota_Lea_DRPDH3_Beadando\obj\Debug\net6.0\ref\Patkos_Agota_Lea_DRPDH3_Beadando.dll
